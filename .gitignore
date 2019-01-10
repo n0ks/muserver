@@ -1,0 +1,8 @@
+*.log
+*.exe
+*.sql
+*.dll
+*.att
+*.hit
+DB Backups
+SMFeatures
