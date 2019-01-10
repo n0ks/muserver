@@ -1,2 +1,2 @@
 # muserver
-Mu Server S9 IGNC CONFIG
+Mu Server S9 IGCN CONFIG
